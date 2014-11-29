@@ -1,6 +1,5 @@
-package com.epam.TextHandler;
+package com.epam.textHandler;
 
-import com.epam.entity.TextComponent;
 import com.epam.entity.TextComposite;
 import com.epam.entity.Token;
 import java.util.regex.Matcher;

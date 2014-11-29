@@ -1,6 +1,6 @@
 package com.epam.runner;
 
-import com.epam.TextHandler.TextHandler;
+import com.epam.textHandler.TextHandler;
 import com.epam.action.Action;
 import com.epam.entity.TextComposite;
 import com.epam.fileHandling.FileHandling;
